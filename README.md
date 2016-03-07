@@ -1,5 +1,5 @@
 # SweetAlert
 效果圖
 
-![image](http://imgur.com/DoNUR51)
+![image](http://i.imgur.com/DoNUR51.gif)
 
